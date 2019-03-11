@@ -1,4 +1,4 @@
-package routine
+package go_routine
 
 // Stopper is a routine that can be stopped. Stopping is
 // not synchronous and Stop should not wait for the

@@ -1,6 +1,6 @@
 // go_routine Copyright © 2019 Chris Wojno. All rights reserved.
 
-package routine
+package go_routine
 
 import (
 	"errors"
